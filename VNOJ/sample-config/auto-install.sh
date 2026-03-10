@@ -21,6 +21,7 @@ pip3 install mysqlclient==2.1.1
 pip3 install websocket-client
 pip3 install -r requirements.txt
 pip3 install lxml_html_clean
+pip install pandoc
 npm install
 mkdir problems media static
 ./make_style.sh
